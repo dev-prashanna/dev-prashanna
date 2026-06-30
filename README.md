@@ -1,11 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dev-prashanna/dev-prashanna/main/snake.svg" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:00f5a0,80:00b4d8,100:0d1117&height=250&section=header&animation=fadeIn&duration=2500&text=P.R.A.S.H.A.N.N.A&fontSize=55&fontColor=00f5a0&fontAlignY=35&desc=Robotics%20/%20AI%20/%20Deep%20Learning&descSize=16&descAlignY=60&descColor=00b4d8" width="100%"/>
 
+</div>
+
+<div align="center">
+
+<img src="neural-network.svg" width="100%"/>
+
+</div>
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+initializing+neural+network...;%3E+loading+autonomous+systems...;%3E+ready+to+build." alt="Neural Network Boot" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+neural+network+online...;%3E+autonomous+systems+loaded...;%3E+ready+to+build." alt="Neural Network Boot" />
 </a>
 
 </div>
@@ -23,28 +31,18 @@
 ---
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  [ SYSTEM SPECS ]                                                │
-│                                                                  │
-│  > Focus ......... Robotics / AI / Deep Learning                │
-│  > Stack ......... Python | C++ | C | PyTorch | ROS             │
-│  > Interest ...... Autonomous Systems | Edge AI | Vision        │
-│  > Status ........ Building the future, one commit at a time    │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
++------------------------------------------------------------------+
+|  [ SYSTEM SPECS ]                                                 |
+|                                                                   |
+|  > Focus ......... Robotics / AI / Deep Learning                 |
+|  > Stack ......... Python | C++ | C | PyTorch | ROS              |
+|  > Interest ...... Autonomous Systems | Edge AI | Vision         |
+|  > Status ........ Building the future, one commit at a time     |
+|                                                                   |
++------------------------------------------------------------------+
 ```
 
 ---
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l4FGI2HnlKMvUPlLi/giphy.gif" width="350"/>
-
-</div>
-
----
-
-## // TECH_STACK
 
 <div align="center">
 
@@ -70,8 +68,6 @@
 
 ---
 
-## // NEURAL_ACTIVITIES
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-prashanna&bg_color=0d1117&color=00f5a0&line=00b4d8&area_color=00f5a0&area=true&hide_border=true&point=FFFFFF&stroke=00f5a0&custom_title=Neural+Activity+Graph" width="100%"/>
@@ -79,8 +75,6 @@
 </div>
 
 ---
-
-## // CORE_METRICS
 
 <div align="center">
 
@@ -102,17 +96,12 @@
 <a href="https://www.linkedin.com/in/prashanna-tiwari-1b9a01398/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
-<a href="https://github.com/dev-prashanna">
-<img src="https://img.shields.io/badge/GITHUB-dev--prashanna-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dev-prashanna&color=00f5a0&style=flat-square&label=VIEWS&labelColor=0d1117)
 
 </div>
 
----
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dev-prashanna&color=00f5a0&style=flat-square&label=VIEWS&labelColor=0d1117)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5a0,100:00b4d8&height=100&section=footer" width="100%"/>
 
