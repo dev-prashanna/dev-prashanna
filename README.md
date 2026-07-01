@@ -30,17 +30,7 @@
 
 ---
 
-```
-+------------------------------------------------------------------+
-|  [ SYSTEM SPECS ]                                                 |
-|                                                                   |
-|  > Focus ......... Robotics / AI / Deep Learning                 |
-|  > Stack ......... Python | C++ | C | PyTorch | ROS              |
-|  > Interest ...... Autonomous Systems | Edge AI | Vision         |
-|  > Status ........ Building the future, one commit at a time     |
-|                                                                   |
-+------------------------------------------------------------------+
-```
+
 
 ---
 
