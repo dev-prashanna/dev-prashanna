@@ -1,14 +1,15 @@
+<p align="center"><img src="dragon.gif" alt="Dragon" width="800"/></p>
+
+---
+
 <h1 align="center">PRASHANNA</h1>
 
-<p align="center">
-  <em>Security Researcher</em> integrating <strong>AI with offensive cyber operations</strong><br/>
-  Building intelligent tools for automated vulnerability discovery and adversarial ML
-</p>
+<p align="center"><em>Security Researcher</em> integrating <strong>AI with offensive cyber operations</strong><br/>Building intelligent tools for automated vulnerability discovery and adversarial ML</p>
 
 <p align="center">
-  <a href="https://github.com/dev-prashanna"><img src="https://img.shields.io/badge/GitHub-dev--prashanna-8b949e?style=flat-square&logo=github" alt="GitHub"/></a>
-  <a href="mailto:developerprashanna@gmail.com"><img src="https://img.shields.io/badge/Email-developerprashanna@gmail.com-f85149?style=flat-square&logo=gmail" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dev-prashanna&color=3fb950&style=flat-square&label=PROFILE+VIEWS" alt="Views"/>
+<a href="https://github.com/dev-prashanna"><img src="https://img.shields.io/badge/GitHub-dev--prashanna-8b949e?style=flat-square&logo=github" alt="GitHub"/></a>
+<a href="mailto:developerprashanna@gmail.com"><img src="https://img.shields.io/badge/Email-developerprashanna@gmail.com-f85149?style=flat-square&logo=gmail" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=dev-prashanna&color=3fb950&style=flat-square&label=PROFILE+VIEWS" alt="Views"/>
 </p>
 
 ---
