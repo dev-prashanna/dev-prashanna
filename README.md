@@ -67,11 +67,7 @@ Currently building **CYPHEX** -- an AI-augmented security platform with intellig
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dev-prashanna&show_icons=true&theme=radical&bg_color=0d1117&title_color=f85149&icon_color=3fb950&text_color=c9d1d9&border_color=30363d)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-prashanna&theme=radical&background=0d1117&ring=f85149&fire=f85149&currStreakLabel=3fb950&sideLabels=c9d1d9)
+## Activity
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dev-prashanna&bg_color=0d1117&color=3fb950&line=f85149&point=ffffff&area=true&area_color=21262d&hide_border=false)
 
