@@ -58,7 +58,7 @@ Currently building **CYPHEX** -- an AI-augmented security platform with intellig
 
 | Component | Description |
 |-----------|-------------|
-| **Firmware** | ESP32-based wireless security testing with automated attack orchestration |
+| **Firmware** | Edge device based wireless security testing with automated attack orchestration |
 | **AI Layer** | Intelligent scan analysis, automated threat classification, adaptive attack selection |
 
 <a href="https://github.com/dev-prashanna/CYPHEX">
